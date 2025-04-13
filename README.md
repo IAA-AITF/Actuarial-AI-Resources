@@ -1,35 +1,34 @@
 # Actuarial AI Resources
 
-Welcome to the **Actuarial AI Resources** repository, an initiative of the International Actuarial Association (IAA). This repository serves as a comprehensive collection of materials related to AI and its intersection with actuarial practice.
+Welcome to the **Actuarial AI Resources** repository, created as part of the International Actuarial Association’s (IAA) Task Force on Artificial Intelligence. This repository supports the Task Force’s objective to curate and share key resources that explore the evolving intersection of AI and actuarial practice.
 
-## 🔍 Purpose
+## 🎯 Purpose
 
-The objective of this repository is to provide actuaries with access to key AI-related materials, including:
-- White papers and industry reports
-- Academic research on AI and actuarial science
-- Guidelines on ethical AI usage in actuarial work
-- Discussions on regulatory implications and best practices
+The goal of this repository is to provide actuaries with access to a curated collection of AI-related materials—including white papers, academic research, ethical guidelines, and regulatory discussions—that inform and support the responsible adoption of AI within actuarial work.
 
 ## 📁 Repository Structure
 
 - **white-papers/**  
-  Published white papers and industry reports relevant to AI in actuarial practice.
+  Published white papers and industry reports relevant to AI applications in actuarial practice.
 
 - **academic-research/**  
-  A collection of peer-reviewed studies and research papers exploring AI applications in actuarial science.
+  A collection of peer-reviewed studies and research papers exploring the intersection of AI and actuarial science.
 
 - **ethics-and-regulation/**  
-  Resources discussing ethical AI implementation and regulatory considerations for actuaries.
+  Resources discussing ethical principles, responsible AI implementation, and regulatory considerations for actuaries.
 
 - **best-practices/**  
-  Guidelines and frameworks for responsibly adopting AI in actuarial workflows.
+  Frameworks, standards, and guidelines for effectively and responsibly integrating AI into actuarial workflows.
 
 ## 🤝 Contributing
 
-We welcome contributions from the actuarial and AI communities. If you have relevant papers, reports, or insights to share, please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
+We welcome contributions from actuaries, researchers, and AI practitioners. Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to submit additional resources or suggest improvements. Alternatively, you can also [contact us via email](mailto:simon.hatzesberger@gmail.com) for any questions or suggestions.
 
 ## ⚖️ License
 
-All documents and materials are shared under the [MIT License](LICENSE), unless otherwise specified.
+This repository contains both original content and references to third-party materials.
 
-For any suggestions or inquiries, please open an issue or reach out to the maintainers.
+- Textual materials (such as summaries, curated lists, and documentation) developed by the IAA Task Force on Artificial Intelligence are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+- Third-party materials are shared under their respective licenses, as indicated.
+
+For any questions or suggestions, feel free to open an issue or [contact us via email](mailto:simon.hatzesberger@gmail.com).
