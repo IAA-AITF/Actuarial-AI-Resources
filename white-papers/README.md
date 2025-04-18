@@ -1,0 +1,12 @@
+- **Title:** What should an actuary know about Artificial Intelligence?  
+  - **Author:** Actuarial Association of Europe (AAE)  
+  - **Date:** January 2024  
+  - **Link:** [https://actuary.eu/wp-content/uploads/2024/01/What-should-an-actuary-know-about-Artificial-Intelligence.pdf](https://actuary.eu/wp-content/uploads/2024/01/What-should-an-actuary-know-about-Artificial-Intelligence.pdf)  
+  - **Document Type:** Discussion Paper / Professional Guidance  
+  - **Keywords:** AI regulation, actuarial ethics, explainability, data science, insurance, governance, education  
+  - **Summary:**  
+    This discussion paper from the Actuarial Association of Europe (AAE) is a foundational resource that guides actuaries through the evolving landscape of Artificial Intelligence (AI) and Data Science, specifically within the European regulatory and professional context. It serves as both a primer and a strategic viewpoint on how AI is reshaping actuarial work across sectors including insurance, pensions, and financial services.
+    The paper begins by highlighting the ongoing transformations in actuarial practice caused by AI—ranging from new product developments to fraud detection and AI-driven underwriting. It also introduces key AI concepts such as supervised and unsupervised learning, deep learning, and Generative AI, making them accessible to practitioners without deep technical backgrounds.
+    Central to the document is a robust examination of ethical, legal, and governance issues. It reviews the European Union's regulatory landscape, including GDPR and the upcoming AI Act, and connects these with practical risks such as bias, misinformation, and cybersecurity. The paper advocates for a proactive role by actuaries in ensuring responsible AI usage through good governance, transparency, and robust oversight.
+    Notably, the document emphasizes explainable AI (XAI) techniques such as SHAP, LIME, PDP, and ICE, which are crucial for auditability and fairness—particularly in pricing, claims management, and underwriting. It also outlines implications for actuarial education and professional standards, recommending a broader skillset to remain relevant in AI-integrated environments.
+    Designed to initiate discussion and reflection, this paper does not establish formal policy but instead equips actuaries with the conceptual and ethical tools to critically engage with AI developments.
