@@ -1,4 +1,5 @@
 - **Title:** A Practical Guide to Building Agents
+  - **Author:** OpenAI
   - **Date:** April 2025
   - **Link:** [https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)  
   - **Document Type:** Implementation Guide / Technical Best Practices  
