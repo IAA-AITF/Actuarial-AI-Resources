@@ -1,4 +1,5 @@
 - **Title:** The EU AI Act: Executive Summary  
+  - **Author:** Deloitte  
   - **Date:** February 2025  
   - **Link:** [https://www.deloitte.com/de/de/issues/innovation-ai/eu-artificial-intelligence-act.html](https://www.deloitte.com/de/de/issues/innovation-ai/eu-artificial-intelligence-act.html)  
     *(Access Note: PDF available after free registration on the linked page.)*
