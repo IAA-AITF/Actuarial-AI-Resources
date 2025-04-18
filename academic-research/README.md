@@ -1,0 +1,12 @@
+- **Title:** AI Tools for Actuaries – Course Material  
+  - **Authors:** Mario V. Wüthrich (ETH Zurich), Ronald Richman (InsureAI), Benjamin Avanzi (University of Melbourne), Mathias Lindholm (Stockholm University), Michael Mayer (la Mobilière), Jürg Schelldorfer (Swiss Re), Salvatore Scognamiglio (University of Naples Parthenope)  
+  - **Date:** March 3, 2025  
+  - **Link:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162304](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162304)  
+  - **Document Type:** Academic Lecture Notes / Educational Resource  
+  - **Keywords:** Actuarial science, Machine learning, Neural networks, Generative AI, GLMs, Model validation, Deep learning  
+  - **Summary:**  
+    This comprehensive set of lecture notes, authored by a consortium of leading actuarial academics and professionals, provides a deep and rigorous exploration of AI and machine learning tools specifically tailored to the actuarial profession. It aligns closely with the educational strategy proposed by the Actuarial Association of Europe and is intended for continuous professional development in data science.
+    The material starts by revisiting foundational concepts in probability theory and generalized linear models, before progressing into advanced topics such as regularization, regression trees, feed-forward neural networks, gradient boosting machines, and deep learning architectures. It covers practical considerations for model fitting, validation, and selection—key topics for actuaries working with data-driven forecasts and risk assessments.
+    A distinguishing feature is its dual focus on both theoretical rigor and real-world applicability. The authors pay particular attention to statistical consistency, choice of loss functions, and the handling of complex data structures, offering actuaries robust frameworks for integrating AI tools into their actuarial workflows. Sections on unsupervised learning, generative models, reinforcement learning, and the use of large language models (LLMs) highlight the breadth of content.
+    Designed for self-study or academic instruction, this resource is complemented by interactive notebooks and visual aids hosted online. It is a living document under active development, reflecting the fast-evolving intersection between actuarial science and AI.
+  - **Additional materials:** [https://aitools4actuaries.com](https://aitools4actuaries.com)
